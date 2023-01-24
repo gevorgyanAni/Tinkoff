@@ -1,0 +1,38 @@
+{
+    "fullName": {
+        "name": "Иван",
+        "surname": "Иванов",
+        "patronymic": "Иванович"
+    },
+    "age": {
+      "year": 1990,
+      "month": 1,
+      "day": 1,
+      "currentAge": 31
+    },
+    "sex": {
+      "current": "male"
+    },
+    "phonenumber": {
+        "number": "+79991234567"
+    },
+
+    "wife": {
+        "fullName": {
+            "name": "Анна",
+            "surname": "Иванова",
+            "patronymic": "Викторовна"
+        },
+        "age": {
+          "year": 1996,
+          "month": 11,
+          "day": 28,
+          "currentAge": 25
+        },
+        "sex": {
+          "current": "female"
+        },
+        "phonenumber": {
+            "number": "+79997654321"
+          }
+}
