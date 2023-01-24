@@ -5,18 +5,17 @@
         "patronymic": "Иванович"
     },
     "age": {
-      "year": 1990,
-      "month": 1,
-      "day": 1,
-      "currentAge": 31
+        "year": 1990,
+        "month": 1,
+        "day": 1,
+        "currentAge": 33
     },
     "sex": {
-      "current": "male"
+        "current": "male"
     },
     "phonenumber": {
         "number": "+79991234567"
     },
-
     "wife": {
         "fullName": {
             "name": "Анна",
@@ -24,15 +23,48 @@
             "patronymic": "Викторовна"
         },
         "age": {
-          "year": 1996,
-          "month": 11,
-          "day": 28,
-          "currentAge": 25
+            "year": 1996,
+            "month": 11,
+            "day": 28,
+            "currentAge": 27
         },
         "sex": {
-          "current": "female"
+            "current": "female"
         },
         "phonenumber": {
             "number": "+79997654321"
-          }
+        }
+    },
+    "son": {
+        "fullName": {
+            "name": "Сергей",
+            "surname": "Иванов",
+            "patronymic": "Иванович"
+        },
+        "age": {
+            "year": 2016,
+            "month": 11,
+            "day": 21,
+            "currentAge": 7
+        },
+        "sex": {
+            "current": "male"
+        },
+        "daughter": {
+            "fullName": {
+                "name": "Виктория",
+                "surname": "Иванова",
+                "patronymic": "Ивановна"
+            },
+            "age": {
+                "year": 2019,
+                "month": 11,
+                "day": 21,
+                "currentAge": 4
+            },
+            "sex": {
+                "current": "female"
+            }
+        }
+    }
 }
