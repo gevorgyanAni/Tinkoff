@@ -1,0 +1,18 @@
+{
+  "fullName": {
+    "name": "Иван",
+    "surname": "Иванов",
+    "patronymic": "Иванович"
+  },
+  "age": {
+    "currentAge": 20
+  },
+  "sex": {
+    "current": "Мужской"
+  },
+  "address": {
+    "current": {
+      "city": "Москва"
+    }
+  }
+}
